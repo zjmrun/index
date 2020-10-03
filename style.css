@@ -24,3 +24,12 @@
       margin: 0 auto;
       text-align: center;
     }
+
+    a {
+      text-decoration: none;
+    }
+
+    a:link {color: white;}
+    a:active {color: rgb(180, 50, 50);}
+    a:visited {color: rgb(180, 50, 50);}
+    a:hover {color: rgb(14, 219, 255);}
